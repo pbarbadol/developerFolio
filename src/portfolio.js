@@ -33,7 +33,7 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/pablobarbadol",
+  github: "https://github.com/pbarbadol",
   linkedin: "https://www.linkedin.com/in/pablobarbadolozano",
   gmail: "pablobarbado@outlook.es",
   // gitlab: "", // Añade si tienes
@@ -323,7 +323,7 @@ const resumeSection = {
 const contactInfo = {
   title: emoji("Contáctame ☎️"),
   subtitle:
-    "¿Interesado en colaborar en un proyecto o simplemente quieres conectar? ¡No dudes en escribirme!",
+    "¿Interesado en contratarme o colaborar en un proyecto? ¡No dudes en escribirme!",
   number: "+34 697 22 05 39",
   email_address: "pablobarbado@outlook.es"
 };
