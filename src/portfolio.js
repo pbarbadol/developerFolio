@@ -48,7 +48,7 @@ const socialMediaLinks = {
 const skillsSection = {
   title: "Lo que hago",
   // CAMBIO/SUGERENCIA: Un subtítulo un poco más conciso o enfocado.
-  subTitle: "DESARROLLADOR DE SOFTWARE CON FOCO EN INTELIGENCIA ARTIFICIAL, EXPLORANDO CONSTANTEMENTE NUEVAS TECNOLOGÍAS.",
+  subTitle: "INGENIERO DE SOFTWARE & IA, ME ENCANTA APRENDER, Y AUNQUE NO TENGA EXPERIENCIA, DAME UN PAR DE DÍAS QUE APRENDO LO QUE SEA.",
   skills: [
     emoji(
       "⚡ Desarrollo aplicaciones full-stack robustas y escalables, desde el frontend hasta el backend."
